@@ -7,7 +7,7 @@
 </head>
 <body>
     @php
-        $name = "Centeno, Gian Edmar S."
+        $name = "Centeno, Gian Edmar Salinas"
     @endphp
     <h1 style="color:blue;">Name: {{ $name }}</h1>
 </body>
